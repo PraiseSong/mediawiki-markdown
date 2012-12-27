@@ -1,4 +1,10 @@
 <?php
+#
+# mediawiki-markdown  允许在mediawiki页面使用markdown语法
+# version 0.0.1
+#
+#
+
 include_once "markdown.php";
 
 if ( !defined( 'MEDIAWIKI' ) ) {
