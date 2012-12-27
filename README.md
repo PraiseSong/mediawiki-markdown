@@ -7,3 +7,6 @@ mediawiki-markdown
 在mediawiki中使用：`<markdown>你的内容</markdown>`
 
 开发者：[Praise Song](http://labs.cross.hk)
+
+
+介绍：http://labs.cross.hk/html/1523.html
